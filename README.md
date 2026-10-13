@@ -540,5 +540,6 @@ gcloud artifacts docker images delete \
 ---
 
 *Material elaborado para UTEC Posgrado — Módulo 5, Sesión 1 | Docente: Aldo Trucios*
+# Primer despliegue de Carlos Briceño
 
 
